@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "theme": "boilerplate"
+  },
+  "basics": {
+    "name": "Igor Mirćić",
+    "label": "Front-End Web Developer",
+    "image": "https://avatars.githubusercontent.com/u/76088411",
+    "email": "igor.mircic@outlook.com",
+    "phone": "+381 60 1300559",
+    "url": "https://johndoe.com",
+    "summary": "Motivated and hardworking, glad to learn and acquire experience. Ready to take responsibility as a member of a team. Have been interested in electronic devices since childhood.",
+    "location": {
+      "postalCode": "18000 Niš",
+      "city": "Niš",
+      "countryCode": "RS",
+      "region": "Serbia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "igor-mircic",
+        "url": "https://github.com/igor-mircic"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ingsoftware",
+      "position": "Front-End Web Developer (Internship)",
+      "url": "https://www.ingsoftware.com/",
+      "startDate": "2021-05-10",
+      "endDate": "2021-08-09",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Sigma Controls Engineering",
+      "position": "PLC/SCADA Engineer",
+      "url": "https://sce.rs",
+      "startDate": "2018-08-15",
+      "endDate": "2021-02-18"
+    },
+    {
+      "name": "Wizards",
+      "position": "Android, Unity3D developer",
+      "url": "https://wizards.rs/",
+      "startDate": "2016-01-21",
+      "endDate": "2016-09-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculty of Electronic Engineering - University of Nis",
+      "url": "https://www.elfak.ni.ac.rs/en/",
+      "area": "Electronic engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-10-01",
+      "endDate": "2015-10-01",
+      "thesis": "ECG system of smart mobile phones"
+    },
+    {
+      "institution": "Faculty of Electronic Engineering - University of Nis",
+      "url": "https://www.elfak.ni.ac.rs/en/",
+      "area": "Electronic engineering",
+      "studyType": "Master",
+      "startDate": "2015-11-13",
+      "endDate": "2017-10-10",
+      "thesis": "Implementation of audio effects for guitar using Raspberry Pi"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "HTML"
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": [
+        "Team Lead"
+      ],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}
